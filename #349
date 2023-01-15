@@ -1,0 +1,20 @@
+# Deliverables
+
+## 1. User navigates to profile
+
+## 2. IF user is logged in, they'll have an export email signature as a new export icon
+
+## 3. Launches a modal with a preview of their email sig
+
+## 4. Button to copy/export HTML, which they can paste into gmail or outlook signatures
+
+## 5. Use example image below for the format.
+
+## 6. Signature should include the attributes in their profile (name, email, avatar image), and badges in their wallet, which they can select to omit or exclude
+
+## "@saginawj @mbKaleb got a feature idea from customer...pretty cool idea, should be basic front-end development, with some reads from the blockchain metadata."
+
+# First thoughts
+
+
+Seems like an odd feature for a beta, not really something I would use. 
